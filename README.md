@@ -7,6 +7,6 @@ You're more than welcome to use this code for your own personal usage however, p
 If you notice any issues with the code, please create a Issues ticket.
 If you want to help improve the code, please create a Pull request!
 
-Credits:
+Credits:<br>
 <a href = "https://github.com/brainboxdotcc/DPP/"> DPP </a> <br>
 <a href = "https://github.com/nlohmann/json/"> Nlohmann's Json </a> <br>
